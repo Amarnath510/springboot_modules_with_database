@@ -4,10 +4,7 @@ Reference: [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-d
 
 # Target 
 - How each application (module) access it's own database.
-- Modules,
-    inventory - Mongo DB
-    account - MySQL
-    common - coomon modules that holds POJOs.
+- Modules: inventory - Mongo DB, account - MySQL, common - coomon modules that holds POJOs.
 
 **NOTE:** If imports(Spring Boot classes) does not work then just refresh the project root by doing --> Goto tasks (on the right most panel, select gradle) --> Right click on root project --> Regresh Gradle Project + Refresh Dependencies.
 
