@@ -1,0 +1,5 @@
+rootProject.name = 'springboot_modules_with_database'
+include 'inventory'
+include 'common'
+include 'account'
+
